@@ -1,13 +1,14 @@
-# 🗺 Katie's Portfolio
+# César's Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
-## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
+## Table of Contents
+- [Excel](#data-engineering)
 - [SQL](#sql)
-- [Python](#python)
 - [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
+- [Python](#python)
+- [R](#r)
+
 
 # Data Engineering
 
